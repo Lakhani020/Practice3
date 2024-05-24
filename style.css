@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+}
+.content {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+    margin-left: 600px;
+  }
+.marker {
+    width: 30px;
+    height: 290px;
+    margin-inline-end: 100px;
+    margin-top: 50px;
+    align-items: center;
+    
+    
+  }
+.c1 {
+    width:0px;
+    height: 25px;
+   
+  }
+
+  .s1 {
+    width: 30px;
+    height: 90px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-top: 10px double black;
+    margin-top:-90px;
+    
+  }
+  .cap, .sleeve , .marker{
+    display:inline-flex;
+    
+   
+  }
+
+
+.purple{
+    background: linear-gradient(rgb(184, 0, 240), rgb(190, 36, 224), rgb(215, 102, 221));
+    box-shadow: 0 0 20px 0 rgba(173, 76, 203, 0.8);
+    /* margin-top: -310px; */
+    /* margin-right: 600px; */
+
+}
+.orange{
+    background: linear-gradient(rgb(207, 79, 28), rgb(243, 119, 4), rgb(197, 134, 89));
+    box-shadow: 0 0 20px 0 rgba(221, 154, 86, 0.8);
+    /* margin-top: -310px; */
+    /* margin-left: 600px; */
+
+
+   
+}
+.blue{
+    background: linear-gradient(rgb(0, 174, 255), rgb(30, 141, 177), rgb(110, 179, 229));
+    box-shadow: 0 0 20px 0 rgba(69, 162, 212, 0.8);
+    /* margin-top: 50px;
+    margin-left: 720px; */
+
+
+}
